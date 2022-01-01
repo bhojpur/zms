@@ -1,2 +1,2 @@
 # Bhojpur ZMS - Zone Management System
-The Bhojpur ZMS is a software-as-a-service product used as a Zone Management System based on Bhojpur.NET Platform. It is used for implementing redundancy deployment models in various markets.
+The Bhojpur ZMS is a software-as-a-service product used as a Zone Management System based on Bhojpur.NET Platform. It is used in several markets (e.g., cloud data center, building/facility management, public safety, healthcare) for monitoring of key risk parameters, threshold metric analysis using AI/ML models, and implementation of redundant deployment model actions to invoke business continuity in a disaster situation.
